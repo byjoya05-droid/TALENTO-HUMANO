@@ -1,0 +1,6 @@
+{
+  "name": "SENA Talento Humano - Prototipo Educativo Inteligente",
+  "description": "Plataforma educativa inteligente, interactiva y gamificada para la apropiación integral del programa Técnico en Talento Humano (Código 134207, Proyecto 3456077) del SENA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
